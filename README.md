@@ -8,7 +8,7 @@ Install the Jenkins [docker-plugin][docker-plugin].
 
 Create a Docker Agent template and set the Docker Image to `anthonyshull/jenkins-slave-boot`.
 
-You know have access to Boot in your builds.
+You now have access to Boot in your builds.
 
 ## License
 ![alt text][public-domain]
