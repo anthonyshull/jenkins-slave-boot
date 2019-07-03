@@ -4,7 +4,7 @@ A Jenkins slave agent based on [evarga/jenkins-slave][evarga/jenkins-slave] and 
 
 ## Usage
 
-Install the Jenkins [docker-plugin][docker-plugin.]
+Install the Jenkins [docker-plugin][docker-plugin].
 
 Create a Docker Agent template and set the Docker Image to `anthonyshull/jenkins-slave-boot`.
 
