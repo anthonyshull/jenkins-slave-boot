@@ -11,7 +11,9 @@ Create a Docker Agent template and set the Docker Image to `anthonyshull/jenkins
 You know have access to Boot in your builds.
 
 ## License
-![alt text][public-domain] To the extent possible under law, Anthony Shull has waived all copyright and related or neighboring rights to Jenkins Slave Boot.
+![alt text][public-domain]
+
+To the extent possible under law, Anthony Shull has waived all copyright and related or neighboring rights to Jenkins Slave Boot.
 
 This work is published from: United States.
 
